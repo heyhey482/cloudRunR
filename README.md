@@ -8,6 +8,11 @@ You can deploy it on your own GCP project via this button:
 [![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/MarkEdmondson1234/cloudRunR.git&cloudshell_working_dir=plumber)
 
 
+# cloud
+
+cloudshell_open --repo_url "https://github.com/heyhey482/cloudRunR.git" --dir "plumber"
+
+
 The end result should be similar to these Cloud Run URLs:
 
 * https://cloudrunr-ewjogewawq-uc.a.run.app/hello
