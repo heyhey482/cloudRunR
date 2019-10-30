@@ -10,8 +10,9 @@ You can deploy it on your own GCP project via this button:
 
 # cloud
 
+```
 cloudshell_open --repo_url "https://github.com/heyhey482/cloudRunR.git" --dir "plumber"
-
+```
 
 The end result should be similar to these Cloud Run URLs:
 
