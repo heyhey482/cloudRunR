@@ -352,7 +352,7 @@ function(  #input
 #' @get /hello
 #' @html
 function(){
-  "<html><h1>hi</h1></html>"
+  "<html><h1>r script api</h1></html>"
 }
 
 #' Echo the parameter that was sent in
