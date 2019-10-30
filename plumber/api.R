@@ -1,3 +1,10 @@
+install.packages("lpSolveAPI")
+install.packages("linprog")
+install.packages("nloptr")
+library(lpSolveAPI)
+library(linprog)
+library(nloptr)
+
 #* @apiTitle Plumber Example API
 #* Echo back the input
 #* @param strawberry_pr 딸기 가격
